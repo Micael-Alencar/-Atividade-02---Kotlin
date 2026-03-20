@@ -16,4 +16,4 @@ Praticar os conceitos básicos da linguagem Kotlin e desenvolver lógica de prog
 ## Tecnologias utilizadas
 - Kotlin
 - IntelliJ IDEA
-- 
+  
